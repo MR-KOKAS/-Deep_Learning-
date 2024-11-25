@@ -20,14 +20,14 @@ A continuación, se describen los datasets utilizados y su propósito en el proy
   - Evaluación de las capacidades del modelo para generalizar características provenientes de distintas fuentes.
 - **Construcción**: Este dataset unifica datos para proporcionar un conjunto más robusto y diverso.
 
-### 3. [ASL Alphabet Dataset](https://www.kaggle.com/datasets/debashishsau/aslamerican-sign-language-aplhabet-)
+### 3. [ASL Alphabet Dataset](https://www.kaggle.com/datasets/debashishsau/aslamerican-sign-language-aplhabet-dataset)
 - **Descripción**: Dataset que contiene imágenes del alfabeto ASL en distintas poses y estilos.
 - **Uso**: 
   - Solamente se utilizó el conjunto de prueba (test set).
   - Prueba 1: Evaluar la capacidad del modelo para predecir las 28 etiquetas presentes en este dataset.
 - **Propósito**: Validar la precisión del modelo en un entorno conocido.
 
-### 4. [Dataset Internet](https://www.kaggle.com/datasets/jorgemartinezkokas/dataset-internet)
+### 4. [Dataset Internet](https://www.kaggle.com/datasets/jorgemartinezkokas/dataset-internet/settings)
 - **Descripción**: Conjunto de imágenes recolectadas aleatoriamente de internet.
 - **Uso**: 
   - Evaluar la capacidad del modelo para generalizar y reconocer signos en un entorno más diverso y menos controlado.
